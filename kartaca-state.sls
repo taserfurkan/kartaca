@@ -1,4 +1,3 @@
-# /srv/salt/kartaca-state.sls
 {% set ip_block = '192.168.168.128/28' %}
 
  kullanici_olustur:
